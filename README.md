@@ -25,4 +25,4 @@ My personal website built with React and TypeScript, showcasing my development j
 
 ### 📫 Connect with me:
 - **LinkedIn:** [kristijan-gega](https://www.linkedin.com/in/kristijan-gega-93b8753b5/)
-- **Email:** kristijangega7@gmail.com
+- **Email:** kgega.dev@gmail.com
