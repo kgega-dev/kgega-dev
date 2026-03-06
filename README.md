@@ -1,20 +1,28 @@
-# Kristijan Gega
+# Hi, I'm Kristijan Gega 👋
 
-Web Developer focused on modern, responsive and practical web solutions.
+### 🚀 Frontend Developer & UI/UX Designer
+I am a Computer Science student at VUB focused on building modern, responsive, and practical web solutions. I bridge the gap between clean code and visual aesthetics.
 
-## About Me
-I am a Computer Science student at VUB with a strong interest in web development and practical software solutions. My main focus is building modern, responsive and functional applications using HTML, CSS, JavaScript, TypeScript and React. I also work with SQL, MySQL, Oracle, C# and Git/GitHub.
+- 💻 **Tech Stack:** React, TypeScript, Tailwind CSS, SQL, C#.
+- 🎨 **Design Tools:** Adobe Photoshop, Illustrator, Premiere Pro.
+- 🎓 **Education:** Currently pursuing a degree in Computer Science.
+- 🛠️ **Current Focus:** Building scalable SPAs and improving system architectures.
 
-## Tech Stack
-- Frontend: HTML, CSS, JavaScript, TypeScript, React
-- Backend / Data: SQL, MySQL, Oracle, C#
-- Tools: Git, GitHub
+---
 
-## Current Focus
-- Building portfolio projects
-- Improving frontend and database skills
-- Growing through real-world development
-- Preparing for freelance and junior opportunities
+### 📂 Featured Projects
 
-## Contact
-- Email: kgega.dev@gmail.com
+#### [Fate Detect](https://github.com/kgega-dev/fate-detect)
+A modern security dashboard SPA featuring:
+* **Strict TypeScript** implementation (no `any`).
+* **State Management** via Context API.
+* **Smooth UX** using Framer Motion and Lucide icons.
+
+#### [Professional Portfolio](https://github.com/kgega-dev/portfolio)
+My personal website built with React and TypeScript, showcasing my development journey and design portfolio.
+
+---
+
+### 📫 Connect with me:
+- **LinkedIn:** [kristijan-gega](https://www.linkedin.com/in/kristijan-gega-93b8753b5/)
+- **Email:** kristijangega7@gmail.com
