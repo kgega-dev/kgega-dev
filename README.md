@@ -1,16 +1,20 @@
-## Hi there 👋
+# Kristijan Gega
 
-<!--
-**kgega-dev/kgega-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer focused on modern, responsive and practical web solutions.
 
-Here are some ideas to get you started:
+## About Me
+I am a Computer Science student at VUB with a strong interest in web development and practical software solutions. My main focus is building modern, responsive and functional applications using HTML, CSS, JavaScript, TypeScript and React. I also work with SQL, MySQL, Oracle, C# and Git/GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Frontend: HTML, CSS, JavaScript, TypeScript, React
+- Backend / Data: SQL, MySQL, Oracle, C#
+- Tools: Git, GitHub
+
+## Current Focus
+- Building portfolio projects
+- Improving frontend and database skills
+- Growing through real-world development
+- Preparing for freelance and junior opportunities
+
+## Contact
+- Email: kgega.dev@gmail.com
