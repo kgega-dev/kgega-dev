@@ -1,16 +1,16 @@
-# Hi, I'm Kristijan Gega 👋
+# Hi, I'm Kristijan Gega 
 
-### 🚀 Frontend Developer & UI/UX Designer
+### Frontend Developer & UI/UX Designer
 I am a Computer Science student at VUB focused on building modern, responsive, and practical web solutions. I bridge the gap between clean code and visual aesthetics.
 
-- 💻 **Tech Stack:** React, TypeScript, Tailwind CSS, C#.
-- 🎨 **Design Tools:** Adobe Photoshop, Illustrator.
-- 🎓 **Education:** Currently pursuing a degree in Computer Science.
-- 🛠️ **Current Focus:** Building scalable SPAs and improving system architectures.
+- **Tech Stack:** React, TypeScript, Tailwind CSS, C#.
+- **Design Tools:** Adobe Photoshop, Illustrator.
+- **Education:** Currently pursuing a degree in Computer Science.
+- **Current Focus:** Building scalable SPAs and improving system architectures.
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 #### [Fate Detect](dodat)
 A modern security dashboard SPA featuring:
@@ -23,6 +23,6 @@ My personal website built with React and TypeScript, showcasing my development j
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 - **LinkedIn:** [kristijan-gega](https://www.linkedin.com/in/kristijan-gega-93b8753b5/)
 - **Email:** kgega.dev@gmail.com
