@@ -16,6 +16,6 @@ I am a Computer Science student at VUB with a strong interest in web development
 
 ## Connect With Me
 - Portfolio: https://kgega-portfolio.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/kristijan-gega-93b8753b5/
+- LinkedIn: https://www.linkedin.com/in/kristijan-gega
 - GitHub: https://github.com/kgega-dev
 - Email: kgega.dev@gmail.com
