@@ -10,9 +10,12 @@ My main focus is building modern, responsive and functional web projects using H
 I am currently building my portfolio through real-world and academic projects, with a strong focus on frontend structure, polished UI and practical implementation.
 
 ## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React
-- **Data / Programming:** SQL, MySQL, Oracle, C#
-- **Tools:** Git, GitHub
+- **Languages:** HTML • CSS • JavaScript • SQL • PHP • C++ • C# • .NET • Java • Kotlin • Python
+- **Frontend:** HTML • CSS • JavaScript • TypeScript • React
+- **Database:** SQL • MySQL • Oracle
+- **Tools & Technologies:** GitHub • GitLab • Visual Studio Code • JetBrains • Android Studio • Unity • Godot • AvaloniaUI • Linux • Windows
+
+- **Tools:** GitHub • GitLab • Visual Studio Code • JetBrains • Android studio • Unity, Linux, Windows
 - **Other:** C++, Object-Oriented Programming
 
 ## Featured Projects
@@ -32,3 +35,7 @@ I am currently building my portfolio through real-world and academic projects, w
 - **LinkedIn:** https://www.linkedin.com/in/kristijan-gega
 - **GitHub:** https://github.com/kgega-dev
 - **Email:** kgega.dev@gmail.com
+
+
+💻 Languages: HTML • JavaScript • CSS • SQL • PHP • C++ • C# • .NET • Java • Kotlin • Python
+🛠️ Tools:     GitHub • GitLab • Visual Studio Code • JetBrains • Android studio • Unity • Godot •  AvaloniaUI • Linux • Windows
