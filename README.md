@@ -15,9 +15,6 @@ I am currently building my portfolio through real-world and academic projects, w
 - **Database:** SQL • MySQL • Oracle
 - **Tools & Technologies:** GitHub • GitLab • Visual Studio Code • JetBrains • Android Studio • Unity • Godot • AvaloniaUI • Linux • Windows
 
-- **Tools:** GitHub • GitLab • Visual Studio Code • JetBrains • Android studio • Unity, Linux, Windows
-- **Other:** C++, Object-Oriented Programming
-
 ## Featured Projects
 - **Fate Detect** — Modern React SPA security dashboard with clean modular architecture
 - **Obsidian Detailing** — Responsive premium business website built for a fictional auto detailing brand
@@ -35,7 +32,3 @@ I am currently building my portfolio through real-world and academic projects, w
 - **LinkedIn:** https://www.linkedin.com/in/kristijan-gega
 - **GitHub:** https://github.com/kgega-dev
 - **Email:** kgega.dev@gmail.com
-
-
-💻 Languages: HTML • JavaScript • CSS • SQL • PHP • C++ • C# • .NET • Java • Kotlin • Python
-🛠️ Tools:     GitHub • GitLab • Visual Studio Code • JetBrains • Android studio • Unity • Godot •  AvaloniaUI • Linux • Windows
